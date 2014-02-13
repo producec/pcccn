@@ -203,7 +203,7 @@ h3
 
 h4
 {
-  font-size:18px;
+  font-size:16px;
   line-height:24px
 }
 
@@ -400,7 +400,7 @@ padding:6px 0;
   border-radius:0 0 8px 8px;
   color:#999;
   display:block;
-  font-size:16px;
+  font-size:15px;
   height:38px;
   line-height:31px;
   padding:42px 14px 0;
@@ -550,11 +550,26 @@ padding:6px 0;
   color:#fff;
   display:inline-block;
   float:left;
-  font-size:20px;
+  font-size:18px;
   line-height:42px;
   margin-bottom:0;
   padding-right:52px;
   font-family:"Microsoft YaHei";
+}
+
+#intro .english
+{
+  float:right;
+  height:24px;
+  margin-top:10px;
+  width:70px;
+}
+
+#intro .english a
+{
+  color:#fff;
+  font-size:16px;
+  cursor:pointer;
 }
 
 #intro .search
@@ -821,7 +836,7 @@ padding:6px 0;
 
 #footer .copyright
 {
-  color:#999;
+  color:#666;
   display:table;
   margin:10px auto 0;
   padding-bottom:21px
@@ -2094,7 +2109,7 @@ blockquote p
 
 #home-navigation .steps .buy_icon .icon
 {
-  background:url(images/icon_dictionary.png) no-repeat center 30px
+  background:url(images/icon_book.png) no-repeat center 30px
 }
 
 #home-navigation .steps .download_icon .icon
