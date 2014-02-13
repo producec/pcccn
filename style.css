@@ -404,7 +404,8 @@ padding:6px 0;
   height:38px;
   line-height:31px;
   padding:42px 14px 0;
-  text-decoration:none
+  text-decoration:none;
+  font-family:"Microsoft YaHei";
 }
 
 .navigation .sfHover a,.navigation li:hover a
@@ -552,7 +553,8 @@ padding:6px 0;
   font-size:20px;
   line-height:42px;
   margin-bottom:0;
-  padding-right:52px
+  padding-right:52px;
+  font-family:"Microsoft YaHei";
 }
 
 #intro .search
@@ -681,7 +683,8 @@ padding:6px 0;
   background:transparent url(images/footer_head_bullet.png) left center no-repeat;
   color:#261f23;
   margin-bottom:10px;
-  padding-left:22px
+  padding-left:22px;
+  font-family:"Microsoft YaHei";
 }
 
 #footer .widget_area a
@@ -1936,7 +1939,8 @@ blockquote p
   height:48px;
   line-height:48px;
   text-align:center;
-  width:100%
+  width:100%;
+  font-family:"Microsoft YaHei";
 }
 
 #home-navigation .tab_head span:hover
@@ -1953,7 +1957,7 @@ blockquote p
   background-color:#007bb9;
   border-bottom-left-radius:5px;
   border-bottom-right-radius:5px;
-  color:#fff
+  color:#fff;
 }
 
 #home-navigation .tab .tab_text
@@ -2074,7 +2078,8 @@ blockquote p
   position:relative;
   text-align:center;
   width:100%;
-  z-index:10
+  z-index:10;
+  font-family:"Microsoft YaHei";
 }
 
 #home-navigation .steps .listen_icon .icon
